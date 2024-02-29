@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1a25ee0-5844-44fc-84ea-8fea6319715b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b41db055-6ecf-4842-8384-6179acbdb76f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Gi'</defaultValue>
+      <description></description>
+      <id>b41db055-6ecf-4842-8384-6179acbdb76f</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>
